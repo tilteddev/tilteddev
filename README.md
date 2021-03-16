@@ -1,5 +1,3 @@
-### Profile
-
 Hello! I am often called as Han.
 
 - 🔭 I’m currently working as Java Enterprise Developer ( 8 years experience )
