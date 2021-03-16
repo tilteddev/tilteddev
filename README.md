@@ -1,4 +1,4 @@
-Hello! I am often called as Han.
+Hello! I am often called as **Han**.
 
 - 🔭 I’m currently working as Java Enterprise Developer ( 8 years experience )
 - 🌱 I’m currently learning NodeJS and also doing TERA mod development as a hobby. Most of my mods publicly posted here are just my personal QOL ( no hacks / exploits )
