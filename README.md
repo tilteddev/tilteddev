@@ -15,9 +15,6 @@ Hello! I am often called as **Han**.
 <a href="https://github.com/tilteddev/party-death-markers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tilteddev&repo=party-death-markers" />
 </a>
-<a href="https://github.com/tilteddev/battle-notify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tilteddev&repo=battle-notify" />
-</a>
 <!--
 **tilteddev/tilteddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
